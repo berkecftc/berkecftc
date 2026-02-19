@@ -56,7 +56,7 @@ I care about clean architecture, SOLID principles, performance optimization and 
 You can explore my work, technical background and detailed projects on my personal website:
 
 🔗 **Portfolio:**  
-https://beko-dev.vercel.app
+https://berkeciftci.dev/
 
 ---
 
