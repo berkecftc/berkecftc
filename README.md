@@ -1,82 +1,45 @@
-# Hi, I'm Berke 👋  
-### Full-Stack Developer | Spring Boot | Microservices | React
+<div align="center">
+
+# Hi, I'm Beko 👋
+
+### Full-stack developer · Computer Engineer
+
+I build backend systems with **Java and Spring Boot**, and interfaces with **React and TypeScript**.
+
+[Portfolio](https://berkeciftci.dev/) · [LinkedIn](https://www.linkedin.com/in/berkecftc/) · [Email](mailto:ahmetberkeciftci@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## About me
 
-I am a Computer Engineering student focused on building scalable, maintainable and production-ready full-stack systems.
+- 🎓 Computer Engineering graduate from **Konya Technical University**
+- 💼 Recently completed a frontend development internship in Ankara, working in a small cross-functional team with a backend developer and a UI designer
+- 🔭 Currently building a **Raft-based distributed key-value store in Java** with a friend
+- 🧰 Comfortable across the stack, with the strongest footing in the Spring ecosystem
 
-On the backend, I work primarily with **Spring Boot**, designing RESTful APIs and microservice-based architectures.  
-On the frontend, I build modern and responsive interfaces using **React** and related ecosystem tools.
+## Tech stack
 
-I care about clean architecture, SOLID principles, performance optimization and writing code that scales — not just code that works.
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,tailwind,python,fastapi&perline=8" alt="Languages and frameworks" />
 
-## 🛠 Tech Stack
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,vercel,supabase,linux,idea,vscode&perline=8" alt="Tools and platforms" />
 
-### Backend
-- Java
-- Spring Boot
-- Spring Security
-- JPA / Hibernate
-- RESTful API Design
-- Microservices Architecture
-- Docker
-- PostgreSQL / MySQL
+</div>
 
-### Frontend
-- React
-- Next.js
-- JavaScript / TypeScript
-- TailwindCSS
+## GitHub stats
 
-### Tools & Workflow
-- Git & GitHub
-- Postman
-- Linux
-- CI/CD fundamentals
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=berkecftc&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkecftc&layout=compact&hide_border=true&theme=default" alt="Top languages" />
 
-## 🧠 Engineering Focus
+</div>
 
-- Clean Code & SOLID Principles  
-- Layered & Modular Architecture  
-- Scalable Backend Design  
-- API Security & Authentication (JWT)  
-- Database Optimization & Query Performance  
-- Microservice Communication Patterns  
+## Get in touch
 
----
+Always happy to talk about backend engineering, frontend work or a project idea.
 
-## 🌐 Portfolio
-
-You can explore my work, technical background and detailed projects on my personal website:
-
-🔗 **Portfolio:**  
-https://berkeciftci.dev/
-
----
-
-## ✍️ Technical Writing
-
-I share technical insights and software engineering learnings on Medium:
-
-🔗 **Medium:**  
-https://medium.com/@ahmetberkeciftci
-
----
-
-## 🤝 Connect With Me
-
-🔗 **LinkedIn:**  
-www.linkedin.com/in/ahmet-berke-çiftçi-2111672b4
-
----
-
-## 📌 Philosophy
-
-I aim to build systems that are maintainable, extensible and architecturally sound.  
-My focus is long-term code quality, not short-term feature delivery.
+📫 [ahmetberkeciftci@gmail.com](mailto:ahmetberkeciftci@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/berkecftc/) · 🌐 [Portfolio](https://berkeciftci.dev/)
