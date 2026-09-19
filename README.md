@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Beko 👋
+# Hi, I'm Berke 👋
 
 ### Full-stack developer · Computer Engineer
 
@@ -26,15 +26,6 @@ I build backend systems with **Java and Spring Boot**, and interfaces with **Rea
 <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,tailwind,python,fastapi&perline=8" alt="Languages and frameworks" />
 
 <img src="https://skillicons.dev/icons?i=docker,git,githubactions,vercel,supabase,linux,idea,vscode&perline=8" alt="Tools and platforms" />
-
-</div>
-
-## GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=berkecftc&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkecftc&layout=compact&hide_border=true&theme=default" alt="Top languages" />
 
 </div>
 
