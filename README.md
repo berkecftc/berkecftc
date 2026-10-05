@@ -1,36 +1,49 @@
-<div align="center">
+- 👋 Hi, I'm Beko (Ahmet Berke Çiftçi)
 
-# Hi, I'm Berke 👋
+  ```
+  Computer Engineering graduate from Konya Technical University.
+  ```
 
-### Full-stack developer · Computer Engineer
+- 👀 I'm interested in full-stack development, with a focus on backend systems
 
-I build backend systems with **Java and Spring Boot**, and interfaces with **React and TypeScript**.
+  ```
+  Strong on Java / Spring Boot, comfortable on React / TypeScript.
+  Did a frontend development internship in Ankara in 2026.
+  ```
 
-[Portfolio](https://berkeciftci.dev/) · [LinkedIn](https://www.linkedin.com/in/berkecftc/) · [Email](mailto:ahmetberkeciftci@gmail.com)
+- 🔭 I'm currently building a Raft-based distributed key-value store
 
-</div>
+  ```
+  A two-person project with a friend, written in Java,
+  focused on leader election, log replication and fault handling.
+  ```
 
----
+- 📫 How to reach me?:
 
-## About me
+  ```
+  E-mail: ahmetberkeciftci@gmail.com
+  LinkedIn: https://www.linkedin.com/in/berkecftc/
+  Portfolio: https://berkeciftci.dev/
+  ```
 
-- 🎓 Computer Engineering graduate from **Konya Technical University**
-- 💼 Recently completed a frontend development internship in Ankara, working in a small cross-functional team with a backend developer and a UI designer
-- 🔭 Currently building a **Raft-based distributed key-value store in Java** with a friend
-- 🧰 Comfortable across the stack, with the strongest footing in the Spring ecosystem
+- ⌨️ Which programming languages do I use?
 
-## Tech stack
+  ```
+  Java (Spring Boot) for backend, TypeScript/React for frontend.
+  Also comfortable with Python.
+  ```
 
-<div align="center">
+- 🗣️ Which languages do I know?
 
-<img src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,tailwind,python,fastapi&perline=8" alt="Languages and frameworks" />
+  ```
+  Turkish (native), English.
+  ```
 
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions,vercel,supabase,linux,idea,vscode&perline=8" alt="Tools and platforms" />
+[![berkecftc's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkecftc&show_icons=true&theme=dracula&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true)](https://github.com/berkecftc)
+[![berkecftc GitHub stats](https://github-readme-stats.vercel.app/api?username=berkecftc&show_icons=true&theme=dracula&text_color=ffffff&bg_color=6a6a6a&hide_border=true)](https://github.com/berkecftc)
+[![berkecftc's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=berkecftc&theme=highcontrast&hide_border=true)](https://github.com/berkecftc)
 
-</div>
+### 🐍 Contribution Snake
 
-## Get in touch
-
-Always happy to talk about backend engineering, frontend work or a project idea.
-
-📫 [ahmetberkeciftci@gmail.com](mailto:ahmetberkeciftci@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/berkecftc/) · 🌐 [Portfolio](https://berkeciftci.dev/)
+![snake gif](https://raw.githubusercontent.com/berkecftc/berkecftc/output/github-snake.svg#gh-light-mode-only)
+![snake gif](https://raw.githubusercontent.com/berkecftc/berkecftc/output/github-snake-dark.svg#gh-dark-mode-only)
